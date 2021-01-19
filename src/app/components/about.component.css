@@ -1,0 +1,21 @@
+.landing {
+
+    width: 100%;
+    height: 70vh;
+  
+    background-image: url("/assets/architecture-1448221_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+.jumbotron {
+background: none
+}
+
+.theme-color {
+
+    color:  #00adef;
+    font-weight: bold;
+
+}
