@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { faCar, faHome, faCrutch, faBuilding, faUserAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-main',
@@ -8,7 +9,11 @@ import { Component, OnInit } from '@angular/core';
 export class MainComponent implements OnInit {
 
   constructor() { }
-
+  faCar = faCar
+  faHome = faHome
+  faCrutch = faCrutch
+  faBuilding = faBuilding
+  faUserAlt = faUserAlt
   ngOnInit(): void {
   }
 

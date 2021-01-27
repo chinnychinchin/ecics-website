@@ -8,3 +8,40 @@
   background-size: cover;
 
 }
+
+
+.motor {
+
+  border-radius: 10px/30px; /* horizontal radius / vertical radius */
+  height: 115px;
+  width: 115px;
+  opacity: 0.8;
+  color: #2e1818d3;
+
+}
+
+
+.button-row {
+
+  padding-top: 265px;
+  /* padding-bottom: 300px; */
+
+}
+
+fa-icon {
+  color: whitesmoke;
+  opacity: 1;
+  margin-top: 10px;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+}
+
+.col-auto {
+
+  margin-right: 50px;
+  margin-top: 15px;
+}
